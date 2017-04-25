@@ -1,0 +1,49 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#banner
+{ 
+	background-color: transparent; 
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 50px; text-align: left;
+#sub_banner
+{
+	background-color: transparent;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	color: #22B3DD;
+	font-size: 24px; text-align: right;
+}
+#nav_bar
+{
+	background-color: #13DCE5; 
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;  
+	font-size: 24px; background-color:#005CF7;
+}
+#content
+{
+	background-color: transparent;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 18px;
+}
+#sub_title 
+{ 
+font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:24px; 
+} 
+#bold 
+{ 
+font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; font-style:italic; 
+}
+#bold_2
+{ 
+font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; font-style:italic; color: #080AE1;
+}
+#bold_3
+{
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; font-style:oblique; font-size:inherit
+}
+#footer
+{
+	background-color: #2CDBEB; 
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+} 

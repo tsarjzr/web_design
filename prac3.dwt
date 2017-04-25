@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Practical 3</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<!-- TemplateBeginEditable name="EditRegion3" -->
+<h1 id="banner"> Training Zone </h1>
+<p id="navbar"></p>
+<table width="500
+" border="1">
+  <tbody>
+    <tr>
+      <td> Home </td>
+      <td> About us</td>
+      <td> Training Articles</td>
+      <td> Contact us</td>
+      <td>Announcement Links </td>
+    </tr>
+  </tbody>
+</table>
+<p>  </p>
+<p> This is the footer </p>
+<!-- TemplateEndEditable -->
+</body>
+</html>
