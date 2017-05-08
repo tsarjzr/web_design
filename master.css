@@ -5,29 +5,42 @@
 { 
 	background-color: transparent; 
 	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
-	font-size: 50px; text-align: left;
+	font-size: 55px; text-align: left; 
+}
 #sub_banner
 {
 	background-color: transparent;
-	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
-	color: #22B3DD;
-	font-size: 24px; text-align: right;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace
+	font-size: 24px; text-align: right; font-style:oblique; color:#DE1F07; 
 }
+#sub_banner2
+{
+	background-color: transparent;
+    font-size: 36px; text-align: right; font-style:!important; color: #1245C7; 
+}
+#sub_banner3
+{ 
+background-color: transparent; font-size: 36px; text-align: left; font-style: !important; color: #1245C7;
+}
+#sub_heading
+{
+	text-align: center; font-size: px; font-style: italic; color: #000000; animation:ease-in-out; font-family:"Gill Sans Light", Chalkboard, Chalkduster, "Brush Script MT Italic"
+}	
 #nav_bar
 {
 	background-color: #13DCE5; 
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;  
-	font-size: 24px; background-color:#005CF7;
+	font-size: 25px; border:thick; border-color:#5389F5;
 }
 #content
 {
 	background-color: transparent;
-	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-family: Baskerville, "Palatino Linotype", Palatino, Century Schoolbook L, Times New Roman, serif;
 	font-size: 18px;
 }
 #sub_title 
 { 
-font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:24px; 
+font-family: Gill Sans Light, Chalkboard, Chalkduster, Brush Script MT; font-size:35px; 
 } 
 #bold 
 { 
@@ -43,7 +56,6 @@ font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; font-style:i
 }
 #footer
 {
-	background-color: #2CDBEB; 
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 } 
